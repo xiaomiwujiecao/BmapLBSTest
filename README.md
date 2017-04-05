@@ -1,0 +1,2 @@
+# BmapLBSTest
+AndroidBmapLBSTest
